@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "9e945c9523c14a9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aefbd081efb0de28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "459155c6ad8f291f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📋 Mentoring Notes TODO Tracker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📋 Mentoring Notes TODO Tracker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "362e48326ac00a1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "16f59eb7bd31e842",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f91e08d7ba95808",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e80adfb14050d634",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c0f1fb6fe08fdbe5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62cb31afdd1e2791",
+    "type": "split",
+    "children": [
+      {
+        "id": "545204d7016e769e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43180fa77a9899b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📋 Mentoring Notes TODO Tracker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 📋 Mentoring Notes TODO Tracker"
+            }
+          },
+          {
+            "id": "15866c23b121aaf3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📋 Mentoring Notes TODO Tracker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 📋 Mentoring Notes TODO Tracker"
+            }
+          },
+          {
+            "id": "15d09dbadff5312d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bcf288fa39a831b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📋 Mentoring Notes TODO Tracker.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 📋 Mentoring Notes TODO Tracker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "459155c6ad8f291f",
+  "lastOpenFiles": [
+    "Specific Challenges/Burnout Prevention.md",
+    "Welcome.md",
+    "CLAUDE.md",
+    "Interview Advice/General Advice.md",
+    "Interview Advice",
+    "Industry Knowledge/Side Projects Balance.md",
+    "Industry Knowledge/Remote Work Best Practices.md",
+    "Industry Knowledge/Networking Strategies.md",
+    "Industry Knowledge/Conference Participation.md",
+    "Industry Knowledge/Company Structures.md",
+    "Industry Knowledge",
+    "Career Development/Performance Review Preparation.md",
+    "Career Development/Promotion Roadmaps.md",
+    "Career Development/One-on-ones.md",
+    "Career Development/Goal Setting.md",
+    "Career Development/Brag Doc.md",
+    "Career Development/Career Pivoting.md",
+    "Career Development",
+    "📋 Mentoring Notes TODO Tracker.md",
+    "Workplace Skills/Time Management.md",
+    "Workplace Skills/Meeting Facilitation.md",
+    "Workplace Skills/Feedback Skills.md",
+    "Workplace Skills/Conflict Resolution.md",
+    "Workplace Skills/Communication Strategies.md",
+    "Workplace Skills",
+    "Technical Growth/Technical Presentations.md",
+    "Technical Growth/Open Source Contribution.md",
+    "Technical Growth/Portfolio and GitHub.md",
+    "Technical Growth/Learning New Technologies.md",
+    "Technical Growth/Code Review Best Practices.md",
+    "Technical Growth",
+    "Specific Challenges"
+  ]
+}

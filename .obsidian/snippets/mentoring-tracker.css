@@ -1,0 +1,18 @@
+/* Mentoring Tracker Styling */
+
+/* Fix emoji + link line breaks in dataview tables - keep emoji with filename */
+.dataview.table-view-table .internal-link {
+  white-space: break-word !important;
+  display: inline !important;
+}
+
+/* But allow the cell itself to wrap when text is too long */
+.dataview.table-view-table td {
+  white-space: normal !important;
+  word-wrap: break-word;
+}
+
+/* Cards layout - keep emoji attached but allow wrapping */
+.cards .dataview.table-view-table td:first-child {
+  min-width: 175px;
+}

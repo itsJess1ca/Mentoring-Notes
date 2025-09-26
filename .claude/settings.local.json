@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:minimal.guide)",
+      "Bash(cat:*)",
+      "WebFetch(domain:blacksmithgu.github.io)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
