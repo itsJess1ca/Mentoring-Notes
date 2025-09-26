@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📋 Mentoring Notes TODO Tracker.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📋 Mentoring Notes TODO Tracker"
+              "title": "README"
             }
           }
         ]
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of 📋 Mentoring Notes TODO Tracker"
             }
+          },
+          {
+            "id": "fb3478ca20ca6293",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,12 +176,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "459155c6ad8f291f",
   "lastOpenFiles": [
     "Specific Challenges/Burnout Prevention.md",
+    "📋 Mentoring Notes TODO Tracker.md",
     "Welcome.md",
     "CLAUDE.md",
     "Interview Advice/General Advice.md",
@@ -189,7 +201,6 @@
     "Career Development/Brag Doc.md",
     "Career Development/Career Pivoting.md",
     "Career Development",
-    "📋 Mentoring Notes TODO Tracker.md",
     "Workplace Skills/Time Management.md",
     "Workplace Skills/Meeting Facilitation.md",
     "Workplace Skills/Feedback Skills.md",
