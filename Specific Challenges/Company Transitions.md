@@ -5,7 +5,6 @@ tags:
   - career-change
   - todo
 ---
-
 # Company Transitions
 
 TODO: Add content about:

@@ -14,7 +14,7 @@ tags:
 - When asked **"What's your expected salary"**, again don't provide numbers. Something along the lines of "I've been seeing varied salaries while searching roles, so don't really have a solid number. I'd love to hear what the potential salary is with you at {company}?"
 
 ## Technical Interviews
-[STAR](https://uk.indeed.com/career-advice/interviewing/star-technique) is your friend. Try and have some examples prepared for common questions. Consult your [[Brag Doc]] if you have one to help with these.
+For behavioral questions, use structured methods like [[STAR Method]] or [[CAR Method]] - see our [[STAR vs CAR Comparison]] guide to choose the best approach. Consult your [[Brag Doc]] if you have one to help with examples.
 ### Links
 - [STAR Technique](https://uk.indeed.com/career-advice/interviewing/star-technique)
 - [Common Interview Questions and some tips on answering them](https://uk.indeed.com/career-advice/interviewing/technical-interview-questions)
