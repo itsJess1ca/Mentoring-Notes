@@ -35,6 +35,7 @@ This vault is optimized for [Obsidian](https://obsidian.md/) and includes:
 ### Installation
 1. Download [Obsidian](https://obsidian.md/)
 2. Open this folder as a vault in Obsidian
+3. Open settings -> community plugins -> enable community plugins (this lets dataview work)
 
 ## Vault Structure
 
