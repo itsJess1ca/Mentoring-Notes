@@ -10,7 +10,7 @@ cssclasses:
 
 ```dataviewjs
 const completedPages = dv.pages()
-  .where(p => !["Mentoring Notes TODO Tracker", "CLAUDE", "README"].includes(p.file.name) && (!p.tags || !p.tags.includes("todo")))
+  .where(p => !["TODO Tracker", "CLAUDE", "README"].includes(p.file.name) && (!p.tags || !p.tags.includes("todo")))
   .sort(p => [p.file.folder, p.file.name]);
 
 dv.table(["Page", "Category"],
@@ -28,7 +28,7 @@ dv.table(["Page", "Category"],
 ```dataviewjs
 // Get all files by folder (both completed and todo)
 const allFilesByFolder = dv.pages()
-  .where(p => !["Mentoring Notes TODO Tracker", "CLAUDE", "README"].includes(p.file.name))
+  .where(p => !["TODO Tracker", "CLAUDE", "README"].includes(p.file.name))
   .groupBy(p => p.file.folder);
 
 // Get todo files by folder
